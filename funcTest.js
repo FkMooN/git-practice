@@ -8,4 +8,9 @@ const minusNum = (a, b)=>{
     // hehe do ngok
 }
 
+const mutiply = (a, b)=>{
+    return a*b 
+    // hehe de thun
+}
+
 // anata wa totemo ah desu
